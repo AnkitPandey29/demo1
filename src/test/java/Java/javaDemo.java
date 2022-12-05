@@ -18,7 +18,7 @@ public class javaDemo {
 		j = i-j;
 		i = i-j;
 		
-		System.out.println(i);
+		
 		System.out.println(j);
 		
 		
